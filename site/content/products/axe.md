@@ -2,7 +2,7 @@
 customOptions = []
 date = "2018-05-15T18:53:23Z"
 image = "/v1527779588/snipcart-hugo-demo/axe.jpg"
-price = 30
+price = 35
 shortDescription = "Swing with purpose."
 title = "Axe"
 
